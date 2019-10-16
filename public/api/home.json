@@ -4,11 +4,11 @@
         "topicList": [{
             "id": 1,
             "title": "社会热点",
-            "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/4613/e96eece16a9e3ae1699dd4bd0002666c571c30f5.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/16235793-976e7cbb2f693320.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
         },{
             "id": 2,
             "title": "手绘",
-            "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/4613/e96eece16a9e3ae1699dd4bd0002666c571c30f5.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/14224967-195b7bb7bbefeea2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
         }],
         "articleList": [{
             "id": 1,

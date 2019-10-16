@@ -1,3 +1,10 @@
+/*
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-08-08 12:35:25
+ * @LastEditTime: 2019-08-08 12:35:25
+ * @LastEditors: your name
+ */
 import React, {Component} from "react";
 import { actionCreators } from "./store";
 import { connect } from "react-redux";
@@ -26,7 +33,7 @@ class Home extends Component {
                     <img 
                         className="banner-img" 
                         alt="轮播图" 
-                        src="https://upload.jianshu.io/admin_banners/web_images/4592/2cbadf9347d69cfc140daf64de887fda0e361bcc.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"/>
+                        src="https://upload-images.jianshu.io/upload_images/14224967-4b05d83d0d4835b2.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/2400"/>
                     <Topic />
                     <List />
                 </HomeLeft>
