@@ -1,3 +1,10 @@
+/*
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-08-08 12:35:25
+ * @LastEditTime: 2019-08-08 12:35:25
+ * @LastEditors: your name
+ */
 import React, { Component } from "react";
 import { CSSTransition } from "react-transition-group";
 import { connect } from "react-redux";
@@ -88,7 +95,7 @@ class Header extends Component {
                             <i 
                                 className="iconfont spin" 
                                 ref={(icon) => {this.spinIcon = icon}}
-                            >&#xe851;换一批</i>
+                            >&#xe851;</i>换一批
                         </SearchInfoSwitch>
                     </SearchInfoTitle>
                     <SearchInfoList>
