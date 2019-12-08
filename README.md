@@ -2,4 +2,4 @@
 
 用redux来管理网站的数据层
 
-react-redux关联react和
+react-redux关联react和redux
